@@ -38,4 +38,5 @@ $ git push -f origin my-local-branch:my-remote-branch
 
 ## Useful link
 [Gradle](https://docs.gradle.org/current/userguide/what_is_gradle.html#what_is_gradle)
+
 [Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
