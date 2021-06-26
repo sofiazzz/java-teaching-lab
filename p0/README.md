@@ -9,7 +9,7 @@ $ git clone https://github.com/sofiazzz/java-teaching-lab.git
 3. Manually compile and run from terminal
 
 ```
-$ javac HelloWorld.java
-$ java HelloWorld
+$ javac com.java.lab.HelloWorld.java
+$ java com.java.lab.HelloWorld
 ```
 4. Compile and run from IDE(Intellij). Find the .class file
